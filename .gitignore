@@ -1,0 +1,7 @@
+gulpfile.js
+/node_modules
+/scss
+/ru
+text.txt
+media.txt
+package-lock.json
